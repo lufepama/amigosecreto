@@ -13,7 +13,7 @@ export default function Home({ isConnected }) {
         <h1 className="title">
           Welcome to <a href="https://nextjs.org">Next.js with MongoDB!</a>
         </h1>
-        <h1>hola</h1>
+        <h1>holas</h1>
       </main>
     </div>
   )
